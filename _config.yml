@@ -6,7 +6,7 @@
 name: Stephen Nghia
 
 # Short bio or description (displayed in the header)
-description: A Blog on CS, AI and Japanese
+description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github:https://stephennghia.github.io
   instagram:
-  linkedin:https://www.linkedin.com/in/stephennghia/
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
