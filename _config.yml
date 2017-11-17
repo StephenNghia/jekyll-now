@@ -85,4 +85,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: Holo Alfa
+theme: jekyll-theme-minimal
